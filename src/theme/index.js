@@ -1,5 +1,6 @@
 //Theme object for page
 
+/* eslint-disable */
 export default { 
     primaryColor: '#242F36', //dark grey
     secondaryColor: '#E8776F', //salmon pink
